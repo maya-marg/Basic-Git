@@ -1,0 +1,6 @@
+
+*.png
+output/*.pdf
+ignoreme.txt
+*.txt
+
