@@ -5,3 +5,7 @@
 	- git log --oneline: gives short log version
 
 - 'git diff' :  
+ 
+
+- git checkout <version> from git log - head deattach
+- git checkout master : to return head to main (master) branch
